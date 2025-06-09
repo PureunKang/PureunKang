@@ -10,11 +10,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-335%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 883 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,15 +28,15 @@
 
 ```text
 🌞 Morning                672 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-🌆 Daytime                3461 commits        ████████████░░░░░░░░░░░░░   48.64 % 
+🌆 Daytime                3462 commits        ████████████░░░░░░░░░░░░░   48.65 % 
 🌃 Evening                1680 commits        ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
 🌙 Night                  1302 commits        █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1287 commits        █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Tuesday                  1072 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Monday                   1288 commits        █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+Tuesday                  1072 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
 Wednesday                1720 commits        ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
 Thursday                 1620 commits        ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
 Friday                   990 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
@@ -82,7 +84,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PureunKang/PureunKang/main/assets/bar_graph.png)
 
 
- Last Updated on 09/06/2025 05:04:43 UTC
+ Last Updated on 09/06/2025 05:10:21 UTC
 <!--END_SECTION:waka-->
 
 
