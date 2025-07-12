@@ -6,7 +6,7 @@
 
 ### Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-370%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-370%20hrs%2040%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -36,7 +36,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/07/2025 18:48:35 UTC
+ Last Updated on 12/07/2025 18:46:20 UTC
 <!--END_SECTION:waka-->
 
 
