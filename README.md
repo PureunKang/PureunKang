@@ -14,10 +14,10 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -33,7 +33,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2025 18:48:25 UTC
+ Last Updated on 27/07/2025 18:48:53 UTC
 <!--END_SECTION:waka-->
 
 
