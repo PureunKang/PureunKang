@@ -14,10 +14,11 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   1 hr 17 mins        █████████████████████░░░░   85.20 % 
+TypeScript               13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 31 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -33,7 +34,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2025 18:46:43 UTC
+ Last Updated on 18/08/2025 18:50:46 UTC
 <!--END_SECTION:waka-->
 
 
