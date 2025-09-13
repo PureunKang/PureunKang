@@ -6,7 +6,7 @@
 
 ### Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%208%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -14,11 +14,11 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     2 hrs 21 mins       ██████████████░░░░░░░░░░░   55.02 % 
-Other                    1 hr 55 mins        ███████████░░░░░░░░░░░░░░   44.98 % 
+Java                     2 hrs 55 mins       ███████████████░░░░░░░░░░   60.34 % 
+Other                    1 hr 55 mins        ██████████░░░░░░░░░░░░░░░   39.66 % 
 
 💻 Operating System: 
-Mac                      4 hrs 16 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -34,7 +34,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2025 18:40:54 UTC
+ Last Updated on 13/09/2025 18:39:32 UTC
 <!--END_SECTION:waka-->
 
 
