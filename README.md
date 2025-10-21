@@ -14,11 +14,10 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               36 mins             █████████████████████████   98.67 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -34,7 +33,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2025 18:48:37 UTC
+ Last Updated on 21/10/2025 18:47:20 UTC
 <!--END_SECTION:waka-->
 
 
