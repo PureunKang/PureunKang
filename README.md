@@ -12,5 +12,21 @@
 
 ### Weekly Development Breakdown
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-393%20hrs%2014%20mins-blue)
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               19 repos            ███████████████░░░░░░░░░░   59.38 % 
+TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+```
+
+
+
+
+ Last Updated on 29/11/2025 18:45:23 UTC
 <!--END_SECTION:waka-->
 
