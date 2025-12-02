@@ -7,9 +7,6 @@
 ### Certifications
 <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white" /><img src="https://img.shields.io/badge/SQLD-4479A1?style=flat&logo=postgresql&logoColor=white" />
 
-### Blog
-[![Tistory](https://img.shields.io/badge/Tistory-Blog-black?style=flat&logo=tistory&logoColor=white)](https://pureun1.tistory.com/)
-
 ### Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%2054%20mins-blue)
