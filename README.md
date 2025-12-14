@@ -16,18 +16,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-399%20hrs%201%20min-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-TypeScript               2 hrs 13 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      2 hrs 13 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -41,6 +29,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/12/2025 18:45:06 UTC
+ Last Updated on 14/12/2025 18:46:35 UTC
 <!--END_SECTION:waka-->
 
