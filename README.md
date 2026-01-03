@@ -14,18 +14,6 @@
 
 ### Weekly Development Breakdown
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -39,6 +27,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2026 18:49:40 UTC
+ Last Updated on 03/01/2026 18:48:24 UTC
 <!--END_SECTION:waka-->
 
