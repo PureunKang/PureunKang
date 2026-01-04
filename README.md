@@ -14,6 +14,20 @@
 
 ### Weekly Development Breakdown
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-403%20hrs%2018%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -27,6 +41,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2026 18:48:24 UTC
+ Last Updated on 04/01/2026 18:48:38 UTC
 <!--END_SECTION:waka-->
 
