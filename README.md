@@ -14,7 +14,23 @@
 
 ### Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%2047%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Docker                   1 hr 52 mins        ████████████░░░░░░░░░░░░░   46.89 % 
+YAML                     53 mins             ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+TypeScript               33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+
+💻 Operating System: 
+Mac                      4 hrs               █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -29,6 +45,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/01/2026 18:55:57 UTC
+ Last Updated on 24/01/2026 18:50:10 UTC
 <!--END_SECTION:waka-->
 
