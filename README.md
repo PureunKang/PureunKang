@@ -16,21 +16,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-422%20hrs%2021%20mins-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-JavaScript               2 hrs 15 mins       ██████████████████░░░░░░░   73.85 % 
-YAML                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Docker                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-
-💻 Operating System: 
-Mac                      3 hrs 3 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -44,6 +29,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/01/2026 19:07:16 UTC
+ Last Updated on 30/01/2026 19:05:46 UTC
 <!--END_SECTION:waka-->
 
