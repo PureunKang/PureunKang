@@ -18,10 +18,10 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -35,6 +35,6 @@ Java                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 15/02/2026 18:59:36 UTC
+ Last Updated on 16/02/2026 19:07:13 UTC
 <!--END_SECTION:waka-->
 
